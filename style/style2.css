@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    background-color:#e6dace;
+    
+    
+}
+h2{
+    color: #6d7359;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.imagen{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    
+}
+.principal{
+    padding: 5%;
+    margin-left:5% ;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+h4,h3{
+    padding: 5px;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
+padding-top: 20px;
+
+
+}
+
+/* Estilo para el enlace */
+footer a {
+color: black;
+    text-decoration: none;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+/* Estilo para la imagen */
+footer .foto {
+    width: 20%; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto;
+
+}
