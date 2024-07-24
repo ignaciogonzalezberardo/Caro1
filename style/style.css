@@ -21,7 +21,8 @@ h2{
     
 }
 .principal{
-
+    padding: 5%;
+    margin-left:5% ;
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
